@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Home Service Application On Android</string>
+    <string name="intro_first_line">Trusted Contactor</string>
+    <string name="intro_second_line">Trusted Customer</string>
+    <string name="intro_third_line">Trusted Platform</string>
+    <string name="intro_fourth_line">Make Your House Better</string>
+    <string name="btn_signin">User Login Here</string>
+    <string name="btn_user_signup">New User? Register here</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="user_signin">USER LOGIN</string>
+    <string name="register_message">new user registration</string>
+    <string name="name">Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="customerPage1">Welcome To Customer Page</string>
+    <string name="customerPage2">Start Your Service Now!</string>
+    <string name="contractorPage1">Welcome To Contractor Page</string>
+    <string name="contractorPage2">Get Your Service Now!</string>
+
+
+    <string-array name="rating_array">
+
+        <item> Please Rate For Service </item>
+        <item> 5. Very good </item>
+        <item> 4. Good </item>
+        <item> 3. Normal </item>
+        <item> 2. Bad </item>
+        <item> 1. Very Bad </item>
+    </string-array>
+
+
+    <string-array name="category_arrays">
+        <item> Home Cleaning </item>
+        <item> AirCond Service </item>
+        <item> Plumbing Repair </item>
+    </string-array>
+    <string name="title_activity_nav_drawer">nav_drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

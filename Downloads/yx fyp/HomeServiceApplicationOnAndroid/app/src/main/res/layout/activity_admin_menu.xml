@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".AdminMenu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome To Admin Page"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkRed"
+            android:layout_marginTop="50dp"/>
+
+
+        <Button
+            android:id="@+id/editEcoin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btnsignupbg"
+            android:layout_marginTop="180dp"
+            android:textSize="20sp"
+            android:text="Edit User E-Coin"
+            android:textColor="@color/colorWhite"/>
+
+        <Button
+            android:id="@+id/adminChat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btnsignupbg"
+            android:layout_marginTop="30dp"
+            android:textSize="20sp"
+            android:text="Admin Chat"
+            android:textColor="@color/colorWhite"/>
+
+        <Button
+            android:id="@+id/btn_admin_signout"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btnsigninbg"
+            android:layout_marginTop="100dp"
+            android:textSize="20sp"
+            android:text="Sign Out"
+            android:textColor="@color/colorWhite"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/customerPage1"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkRed"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/customerPage2"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkRed"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/requestService"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btnsignupbg"
+            android:layout_marginTop="100dp"
+            android:textSize="20sp"
+            android:text="Request Service"
+            android:textColor="@color/colorWhite"/>
+
+        <Button
+            android:id="@+id/myRequest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btnsigninbg"
+            android:layout_marginTop="30dp"
+            android:textSize="20sp"
+            android:text="My Request"
+            android:textColor="@color/colorWhite"/>
+
+        <!--<Button-->
+            <!--android:id="@+id/rateFeedback"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/btnsignupbg"-->
+            <!--android:layout_marginTop="30dp"-->
+            <!--android:textSize="20sp"-->
+            <!--android:text="Rate and Feedback"-->
+            <!--android:textColor="@color/colorWhite"/>-->
+
+        <Button
+            android:id="@+id/topUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btnsignupbg"
+            android:layout_marginTop="30dp"
+            android:textSize="20sp"
+            android:text="My E-coin and Top Up"
+            android:textColor="@color/colorWhite"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

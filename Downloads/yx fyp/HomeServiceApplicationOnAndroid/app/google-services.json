@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65637886373",
+    "firebase_url": "https://homeserviceapp-c3d07.firebaseio.com",
+    "project_id": "homeserviceapp-c3d07",
+    "storage_bucket": "homeserviceapp-c3d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65637886373:android:05dc822a445eeabf",
+        "android_client_info": {
+          "package_name": "com.example.fong_.homeserviceapplicationonandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65637886373-brngq2tvs9oih8ecvg2tbn4nea4h4e3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fong_.homeserviceapplicationonandroid",
+            "certificate_hash": "6f24e563cfdbfad2e4e981c07e9c862e6b9b50f1"
+          }
+        },
+        {
+          "client_id": "65637886373-i1ho0gp5rgb0adlt2ttbbtvcjca66ihs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13qU9dlb3IS2CR9Cb2dek4BaF5U7CMyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65637886373-i1ho0gp5rgb0adlt2ttbbtvcjca66ihs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
